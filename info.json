@@ -1,1 +1,21 @@
-
+{"name":"Nevermined",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Nevermined is the Web3 Data & AI stack for Precision, Trust & Monetization. Nevermined is predicated on the hypothesis that in the future, Data will become the primary rate limiting factor to the development and progress of Artifical Intelligence and, more generally, Machine Learning.Nevermined leverages blockchain technology to enable high fidelity provenance. Provenancial integrity and data lineage remain significant challenges in the development of large scale data estates. At the core, you’re trying to answer four simple questions: 1. Where is the data coming from?, 2.Where is the data going?, 3. Who (or what) is using the data?, 3.What are they doing with the data?. Nevermined addresses attribution concerns by using blockchain technology to enable asset Publishers to register and tokenize any data asset, analytic service (like an AI model or agent), or data processing workflow as an asset, and publishes the existence of these assets to a decentralized network for so that users can discover them. Once discovered, Users can gain access to these assets, like datasets, based on the rules set by the asset Publisher via smart contracts. These rules are evaluated based on the token held by the User, and the access conditions placed on that token. This token-gating access control can be managed in a decentralized manner, transferring value from Publisher to User.",
+"whitePaperLink":"https://nevermined.io",
+"gallery":[{}],
+"deleted":false,
+"primaryColor":"#7361f9",
+"twitterHandle":"@Nevermined_io",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/j9mcvHw.png",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://nevermined.io",
+"tokenDescription":"",
+"tokenTradeLink":"",
+"tags":["Decentralized computing", "Ecosystems", "NFTs"]
+  
+}
